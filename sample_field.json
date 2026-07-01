@@ -1,0 +1,12 @@
+{
+  "field_name": "Renukoot Test Plot",
+  "polygon_coordinates": [
+    [24.2105, 83.0305],
+    [24.2125, 83.0305],
+    [24.2125, 83.0335],
+    [24.2105, 83.0335]
+  ],
+  "target_altitude_m": 60,
+  "sidelap_percent": 70,
+  "frontlap_percent": 75
+}
